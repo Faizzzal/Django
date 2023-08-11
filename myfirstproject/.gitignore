@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+*.db
+myenv/
+db.sqlite3
+.env
+.idea
+.coverage
+.DS_Store
+*.xml
